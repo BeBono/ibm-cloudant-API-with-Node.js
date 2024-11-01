@@ -1,1 +1,1 @@
-# ibm-cloudant-API-with-Node.js
+nodejs> node get-post.js
